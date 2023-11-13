@@ -1,6 +1,9 @@
 # articleapp
 
 A new Flutter project.
+- Clean code
+- State management using Bloc
+- Code generation using Freezed
 
 ## Getting Started
 
